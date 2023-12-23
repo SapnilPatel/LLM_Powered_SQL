@@ -1,1 +1,0 @@
-How many total nike white tshirts are left?
