@@ -1,1 +1,1 @@
-# LLM_SQL
+# LLM_Powered_SQL
