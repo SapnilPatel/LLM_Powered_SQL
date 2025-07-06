@@ -1,8 +1,8 @@
 # LLM Powered SQL Project
 ## Overview
-* The LLM Powered SQL project leverages the power of Google PaLM to create the SQL query from natural language.
-* Leverage the HuggingFace "all-MiniLM-L6-v2" model to create embeddings for SQL queries. These embeddings are stored in the ChromaDB Database, providing a powerful and efficient way to retrieve information based on semantic similarity.
-* Used LangChain to develop this project.
+* Developed an LLM-powered SQL query generation system using Google PaLM to translate natural language into SQL queries.
+* Integrated Hugging Face’s all-MiniLM-L6-v2 model to generate semantic embeddings of SQL queries, storing them in ChromaDB for fast and accurate retrieval based on semantic similarity.
+* Employed LangChain to build a modular and scalable pipeline for query generation and retrieval.
 
 ## Features
 **Embeddings Generation:** Utilizes the HuggingFace "all-MiniLM-L6-v2" model to generate embeddings for SQL queries.
